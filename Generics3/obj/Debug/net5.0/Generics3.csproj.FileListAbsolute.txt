@@ -1,0 +1,16 @@
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\Generics3.exe
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\Generics3.deps.json
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\Generics3.runtimeconfig.json
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\Generics3.runtimeconfig.dev.json
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\Generics3.dll
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\ref\Generics3.dll
+D:\wp_VS\Generics3\Generics3\bin\Debug\net5.0\Generics3.pdb
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.csproj.AssemblyReference.cache
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.GeneratedMSBuildEditorConfig.editorconfig
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.AssemblyInfoInputs.cache
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.AssemblyInfo.cs
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.csproj.CoreCompileInputs.cache
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.dll
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\ref\Generics3.dll
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.pdb
+D:\wp_VS\Generics3\Generics3\obj\Debug\net5.0\Generics3.genruntimeconfig.cache
